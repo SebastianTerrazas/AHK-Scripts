@@ -1,43 +1,42 @@
 # Tilde Replace Script
 
-## [EN] Spanish keyboard characters
-
->Add posibility to tick or accentuate vocals and insert other special characters with a 
-keyboard with english distribution.
-The magic key is `[`, which is where the ticking key is in the spanish
-distribution.
-
-## [ES] Caracteres teclado en español
-
->Añade posibilidad de tildar o acentuar vocales e insertar otros caracteres especiales 
-con un teclado con distribución en inglés.
-La tecla clave es `[`, que es donde se encuentra la tecla para tildar en la 
-distribución en español.
+<p align="center">
+  <span>English</span> |
+  <a href="https://github.com/SebastianTerrazas/AHK-Scripts/blob/main/TildeReplace/README.es.md">Español</a>
+</p>
 
 ---
 
-**Insertar vocales tildadas y ñ minúsculas**
+## Spanish keyboard characters
 
-Vocales: `[ + vocal`  
-Eñe: `[ + ;` _ó_ `[ + n`
+>Add posibility to tick or accentuate vocals and insert other special characters with a 
+keyboard with english distribution.
+>
+>The magic key is `[`, which is where the ticking key is in the spanish
+distribution.
 
-**Insertar vocales tildadas y ñ mayúsculas**
+---
 
-Vocales: `Shift + [ + vocal`  
-Eñe: `Shift + [ + ;` _ó_ `Shift + [ + n`
+**Add lower case ticked vowels and ñ**
 
-**Insertar u con diéresis**
+Vowels: `[ + vowel`  
+ñ: `[ + ;` _or_ `[ + n`
 
-Minúscula: `CapsLock + u`  
-Mayúscula: `Shift + CapsLock + u`
+**Add upper case ticked vowels and Ñ**
 
-**Insertar símbolos especiales**
+Vowels: `Shift + [ + vowel`  
+Ñ: `Shift + [ + ;` _or_ `Shift + [ + n`
 
-Signo de exclamación inicial: `[ + 1`  
-Signo de interrogación inicial: `[ + /`  
-Barra vertical (|) alternativa: ``[ + ` `` 
+**Add u with diaeresis**
+
+Lower case: `CapsLock + u`  
+Upper case: `Shift + CapsLock + u`
+
+**Add special characters**
+
+Initial exclamation mark: `[ + 1`  
+Initial question mark: `[ + /`  
+Pipe ( | ) alternative: ``[ + ` `` 
 
 
-**Para insertar la apertura de llaves se necesita utilizar:** `Shift + [ + ]`   _(puede o no ser arreglado en un **futuro**)_
-
-
+**To add opening curly braces you need to use:** `Shift + [ + ]`   _(it is a workaround, to be fixed)_
