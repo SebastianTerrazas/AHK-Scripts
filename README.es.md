@@ -2,14 +2,14 @@
 
  My Auto Hot Key scripts
 
-<p align="center">
+<p align="">
   <a href="https://github.com/SebastianTerrazas/AHK-Scripts#ahk-scripts">English</a> |
   <span>Español</span>
 </p>
 
 ---
 
-## Tilde Replace Script
+## Tilde Replace Script [⬈](https://github.com/SebastianTerrazas/AHK-Scripts/tree/main/TildeReplace)
 
 ### Caracteres teclado en español
 

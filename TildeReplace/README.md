@@ -1,6 +1,6 @@
 # Tilde Replace Script
 
-<p align="center">
+<p align="">
   <span>English</span> |
   <a href="https://github.com/SebastianTerrazas/AHK-Scripts/blob/main/TildeReplace/README.es.md">Español</a>
 </p>
